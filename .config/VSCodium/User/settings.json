@@ -8,5 +8,5 @@
     "workbench.colorTheme": "Monokai Dark Soda",
     "python.formatting.provider": "black",
     "diffEditor.ignoreTrimWhitespace": false,
-    "editor.fontFamily": "'FiraCode Nerd Font', 'monospace', monospace"
+    "editor.fontFamily": "'FuraMono Nerd Font', 'monospace', monospace"
 }
