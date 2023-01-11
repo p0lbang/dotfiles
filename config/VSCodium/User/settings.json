@@ -1,0 +1,12 @@
+{
+    "terminal.explorerKind": "external",
+    "terminal.integrated.defaultProfile.linux": "zsh",
+    "terminal.external.linuxExec": "/bin/zsh",
+    "code-runner.runInTerminal": true,
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "workbench.colorTheme": "Monokai Dark Soda",
+    "python.formatting.provider": "black",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.fontFamily": "'FiraCode Nerd Font', 'monospace', monospace"
+}
