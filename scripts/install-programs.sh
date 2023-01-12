@@ -7,3 +7,6 @@ rustup toolchain install stable
 git clone https://aur.archlinux.org/paru.git /tmp/paru
 cd /tmp/paru
 makepkg -si
+
+#install ohmyzsh
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
