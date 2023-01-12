@@ -3,6 +3,10 @@
 #install oh my zsh
 # sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
+# download firacode
+curl -fSL https://github.com/ryanoasis/nerd-fonts/releases/download/v2.2.2/FiraCode.zip --output /tmp/FiraCode.zip
+sudo unzip FiraCode.zip -d /usr/share/fonts/firacode
+
 # download powerlevel10k
 git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
 
